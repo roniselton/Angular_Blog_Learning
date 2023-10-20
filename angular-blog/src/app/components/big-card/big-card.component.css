@@ -1,0 +1,30 @@
+.container_big_card{
+  padding: 20px 10px;
+  color: #fff;
+  border: 1px solid #999;
+
+  width: 50%;
+
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  ;
+}
+
+.big_card_foto{
+  display: flex;
+
+}
+
+.big_card_foto > img{
+  width: 100%;
+}
+
+.big_card_title{
+  margin: 10px 0px;
+}
+
+.big_card_descricao{
+  color: #999;
+  text-align: justify;
+}

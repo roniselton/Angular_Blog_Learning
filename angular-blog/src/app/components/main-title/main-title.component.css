@@ -1,0 +1,20 @@
+.container_main_title{
+  color: #FFFFFF;
+}
+
+.container_main_title > h1{
+  margin: 10px 0px;
+  display: flex;
+  justify-content: center;
+  padding: 50px 10px;
+  font-size: 150px;
+  font-variant: small-caps;
+  font-family: fantasy;
+}
+
+.container_main_title > hr {
+  margin: 10px 5px;
+  color: #333;
+  background-color: #333;
+  border: solid #444 1px;
+}

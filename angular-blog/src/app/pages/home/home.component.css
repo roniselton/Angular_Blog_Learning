@@ -1,0 +1,12 @@
+.articles{
+  display: flex;
+  flex-direction: row;
+}
+
+.articles_main{
+
+}
+
+.articles_others{
+
+}

@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "angular.ng-template",
+        "alexiv.vscode-angular2-files"
+    ]
+}

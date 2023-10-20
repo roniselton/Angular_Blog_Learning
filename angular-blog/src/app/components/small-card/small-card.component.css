@@ -1,0 +1,18 @@
+.container_small_card{
+  color: #FFF;
+  display: flex;
+  flex-direction: row;
+}
+
+.small_card_body{
+  display: flex;
+  flex-direction: column;
+}
+
+.small_card_img{
+  width: 100%;
+}
+
+.small_card_img > img{
+  width: 100%;
+}
