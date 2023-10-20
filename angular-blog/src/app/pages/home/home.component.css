@@ -10,3 +10,10 @@
 .articles_others{
 
 }
+
+
+header{
+  border: none;
+  display: flex;
+  justify-content: center;
+}
