@@ -9,6 +9,10 @@
   flex-direction: column;
 }
 
+.small_card_body > p {
+  color: #999;
+}
+
 .small_card_img{
   width: 100%;
 }

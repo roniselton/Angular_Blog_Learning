@@ -1,0 +1,24 @@
+@media screen and (max-width:600px) {
+
+  .articles{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .articles_main{
+
+  }
+
+  .articles_others{
+
+  }
+
+
+  header{
+    border: none;
+    display: flex;
+    justify-content: center;
+  }
+
+
+}
