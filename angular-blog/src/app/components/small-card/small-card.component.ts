@@ -13,4 +13,7 @@ export class SmallCardComponent {
   @Input()
   descricao:string = "as asdasd asd asd.";
 
+  @Input()
+  Id:number = 0;
+
 }
